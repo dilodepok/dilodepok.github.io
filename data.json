@@ -1,6 +1,6 @@
 var data = [
   {
-    "nama": "Dino aja",
+    "nama": "Dino",
 	"hobi" : "mewarnai",
     "umur": "22"
   },
